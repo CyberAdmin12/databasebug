@@ -1,0 +1,18 @@
+// {
+  "users": [
+    {
+      "username": "Chris",
+      "password": "Chris123",
+      "role": "OWNER",
+      "exp": "2030-11-29T14:35:00Z",
+      "photoURL": "https://files.catbox.moe/re1j34.jpg"
+    },
+    {
+      "username": "reseller",
+      "password": "reseller123",
+      "role": "Reseller",
+      "exp": "2027-01-01T00:00:00Z",
+      "photoURL": "https://files.catbox.moe/re1j34.jpg"
+    }
+  ]
+}
