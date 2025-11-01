@@ -3,9 +3,9 @@
     {
       "username": "Chris",
       "password": "Chris123",
-      "role": "OWNER",
+      "role": "DEVELOPER",
       "exp": "2030-11-29T14:35:00Z",
-      "photoURL": "https://files.catbox.moe/re1j34.jpg"
+      "photoURL": "https://files.catbox.moe/8b1i83.png"
     },
     {
       "username": "reseller",
